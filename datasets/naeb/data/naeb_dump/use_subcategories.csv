@@ -1,0 +1,390 @@
+id,parent,name
+1,1,Preserves
+2,1,"Bread & Cake"
+3,2,"Kidney Aid"
+4,1,"Dried Food"
+5,1,Forage
+6,2,Analgesic
+7,1,"Sauce & Relish"
+8,2,"Dermatological Aid"
+9,2,"Cough Medicine"
+10,1,"Snack Food"
+11,2,"Blood Medicine"
+12,2,"Ceremonial Medicine"
+13,2,Poison
+14,2,"Gastrointestinal Aid"
+15,2,Sedative
+16,2,Anthelmintic
+17,3,Tools
+18,2,Other
+19,1,"Dietary Aid"
+20,2,Panacea
+21,2,"Cold Remedy"
+22,2,"Gynecological Aid"
+23,2,"Oral Aid"
+24,3,"Toys & Games"
+25,2,"Eye Medicine"
+26,3,Paint
+27,1,Beverage
+28,3,"Hunting & Fishing Item"
+29,2,Cathartic
+30,3,"Ceremonial Items"
+31,1,Vegetable
+32,3,Containers
+33,3,"Cooking Tools"
+34,2,"Veterinary Aid"
+35,2,"Antirheumatic (External)"
+36,2,Laxative
+37,3,Fuel
+38,3,Decorations
+39,2,"Orthopedic Aid"
+40,2,Emetic
+41,1,Dessert
+42,2,"Pediatric Aid"
+43,4,Basketry
+44,1,Porridge
+45,2,Febrifuge
+46,2,"Venereal Aid"
+47,1,"Special Food"
+48,2,"Pulmonary Aid"
+49,2,"Tuberculosis Remedy"
+50,1,Fodder
+51,4,"Snow Gear"
+52,1,Fruit
+53,3,"Incense & Fragrance"
+54,2,Narcotic
+55,5,Blue
+56,1,Soup
+57,3,Fasteners
+58,3,Protection
+59,1,"Winter Use Food"
+60,2,"Psychological Aid"
+61,2,"Hunting Medicine"
+62,2,"Respiratory Aid"
+63,3,"Smoke Plant"
+64,2,"Cancer Treatment"
+65,2,Hemostat
+66,1,"Frozen Food"
+67,4,"Mats, Rugs & Bedding"
+68,2,Antidiarrheal
+69,2,Tonic
+70,4,"Canoe Material"
+71,2,"Toothache Remedy"
+72,5,Yellow
+73,4,Clothing
+74,2,"Hemorrhoid Remedy"
+75,1,Staple
+76,3,Insecticide
+77,2,Diaphoretic
+78,2,"Herbal Steam"
+79,3,"Smoking Tools"
+80,2,"Urinary Aid"
+81,2,"Liver Aid"
+82,2,"Burn Dressing"
+83,1,Preservative
+84,2,Abortifacient
+85,1,Candy
+86,1,Spice
+87,2,"Misc. Disease Remedy"
+88,1,"Pie & Pudding"
+89,2,"Witchcraft Medicine"
+90,2,Stimulant
+91,4,"Building Material"
+92,2,"Antirheumatic (Internal)"
+93,4,"Brushes & Brooms"
+94,4,"Caulking Material"
+95,2,Anesthetic
+96,2,"Dietary Aid"
+97,2,Anticonvulsive
+98,3,Weapon
+99,4,Cordage
+100,3,Preservative
+101,1,"Baby Food"
+102,4,"Sewing Material"
+103,2,Antiemetic
+104,2,"Heart Medicine"
+105,5,Mordant
+106,3,Soap
+107,3,"Cleaning Agent"
+108,5,Black
+109,4,Furniture
+110,2,"Internal Medicine"
+111,2,Antihemorrhagic
+112,1,"Substitution Food"
+113,1,"Starvation Food"
+114,2,"Snake Bite Remedy"
+115,3,"Season Indicator"
+116,2,"Dietary Aid"
+117,2,Diuretic
+118,2,"Nose Medicine"
+119,2,Carminative
+120,3,"Walking Sticks"
+121,5,Green
+122,2,Antidote
+123,2,"Throat Aid"
+124,4,"Scouring Material"
+125,3,Jewelry
+126,2,Contraceptive
+127,5,Red-Brown
+128,2,Strengthener
+129,2,Disinfectant
+130,2,"Dietary Aid"
+131,1,"Cooking Agent"
+132,3,"Cash Crop"
+133,2,"Love Medicine"
+134,2,"Sports Medicine"
+135,1,Sweetener
+136,5,Red
+137,2,"Preventive Medicine"
+138,2,Poultice
+139,2,Expectorant
+140,2,"Dietary Aid"
+141,3,"Planting Seeds"
+142,2,"Reproductive Aid"
+143,3,Paper
+144,3,"Hide Preparation"
+145,3,Lighting
+146,3,"Musical Instrument"
+147,3,"Good Luck Charm"
+148,2,"Breast Treatment"
+149,2,Adjuvant
+150,5,Brown
+151,2,"Dietary Aid"
+152,2,"Dietary Aid"
+153,2,Hallucinogen
+154,3,"Waterproofing Agent"
+155,2,"Dietary Aid"
+156,2,"Ear Medicine"
+157,2,"Dietary Aid"
+158,2,"Dietary Aid"
+159,2,"Dietary Aid"
+160,2,"Dietary Aid"
+161,5,Purple
+162,2,"Dietary Aid"
+163,1,Sour
+164,3,"Stable Gear"
+165,2,"Dietary Aid"
+166,2,"Dietary Aid"
+167,3,Designs
+168,3,"Water Indicator"
+169,3,Preservative
+170,4,"Sporting Equipment"
+171,1,"Ice Cream"
+172,5,Orange-Yellow
+173,2,"Dietary Aid"
+174,4,Other
+175,2,"Dietary Aid"
+176,5,Orange-Red
+177,2,"Gland Medicine"
+178,3,Preservative
+179,3,Preservative
+180,3,Preservative
+181,3,"Malicious Charm"
+182,5,Yellow-Brown
+183,2,"Dietary Aid"
+184,2,Hypotensive
+185,3,"Sacred Items"
+186,3,Fertilizer
+187,3,Preservative
+188,2,"Dietary Aid"
+189,2,"Dietary Aid"
+190,2,Alterative
+191,2,"Dietary Aid"
+192,2,"Vertigo Medicine"
+193,5,Orange
+194,2,"Dietary Aid"
+195,2,"Dietary Aid"
+196,2,"Basket Medicine"
+197,2,"Dietary Aid"
+198,2,"Dietary Aid"
+199,2,"Dietary Aid"
+200,2,"Dietary Aid"
+201,2,"Dietary Aid"
+202,2,"Dietary Aid"
+203,3,Snuff
+204,2,"Dietary Aid"
+205,5,Pink
+206,2,"Dietary Aid"
+207,2,"Dietary Aid"
+208,2,"Dietary Aid"
+209,2,"Dietary Aid"
+210,2,"Dietary Aid"
+211,2,"Dietary Aid"
+212,2,"Dietary Aid"
+213,2,"Dietary Aid"
+214,2,"Dietary Aid"
+215,2,"Dietary Aid"
+216,2,"Dietary Aid"
+217,5,Gray
+218,1,Appetizer
+219,2,"Dietary Aid"
+220,2,"Dietary Aid"
+221,2,"Dietary Aid"
+222,2,"Dietary Aid"
+223,3,Preservative
+224,3,"Plant Indicator"
+225,2,"Dietary Aid"
+226,2,"Dietary Aid"
+227,2,"Dietary Aid"
+228,5,Blue-Black
+229,2,"Dietary Aid"
+230,1,"Breakfast Food"
+231,3,Preservative
+232,2,"Dietary Aid"
+233,2,"Dietary Aid"
+234,2,"Dietary Aid"
+235,2,"Dietary Aid"
+236,2,"Dietary Aid"
+237,2,"Dietary Aid"
+238,2,"Dietary Aid"
+239,2,"Dietary Aid"
+240,2,"Dietary Aid"
+241,3,"Malicious Magic"
+242,2,"Dietary Aid"
+243,2,"Dietary Aid"
+244,2,"Dietary Aid"
+245,2,"Dietary Aid"
+246,2,"Dietary Aid"
+247,2,"Dietary Aid"
+248,2,"Dietary Aid"
+249,4,Other
+250,4,Other
+251,2,"Dietary Aid"
+252,2,"Dietary Aid"
+253,2,"Dietary Aid"
+254,2,"Dietary Aid"
+255,2,"Dietary Aid"
+256,2,"Dietary Aid"
+257,2,"Dietary Aid"
+258,2,"Dietary Aid"
+259,2,"Dietary Aid"
+260,2,"Dietary Aid"
+261,3,Preservative
+262,2,"Dietary Aid"
+263,5,White
+264,2,"Dietary Aid"
+265,2,"Dietary Aid"
+266,3,Preservative
+267,2,"Dietary Aid"
+268,2,"Dietary Aid"
+269,3,Preservative
+270,2,"Dietary Aid"
+271,4,Other
+272,2,"Dietary Aid"
+273,2,"Dietary Aid"
+274,2,"Dietary Aid"
+275,2,"Dietary Aid"
+276,2,"Dietary Aid"
+277,2,"Dietary Aid"
+278,2,"Dietary Aid"
+279,2,"Dietary Aid"
+280,2,"Dietary Aid"
+281,2,"Dietary Aid"
+282,3,Preservative
+283,2,"Dietary Aid"
+284,2,"Dietary Aid"
+285,2,"Dietary Aid"
+286,2,"Dietary Aid"
+287,2,"Dietary Aid"
+288,2,"Dietary Aid"
+289,5,Red-Yellow
+290,2,"Dietary Aid"
+291,2,"Dietary Aid"
+292,3,Preservative
+293,2,"Dietary Aid"
+294,2,"Dietary Aid"
+295,2,"Dietary Aid"
+296,2,"Dietary Aid"
+297,2,"Dietary Aid"
+298,4,Other
+299,2,"Dietary Aid"
+300,2,"Dietary Aid"
+301,2,"Dietary Aid"
+302,2,"Dietary Aid"
+303,3,Preservative
+304,2,"Dietary Aid"
+305,2,"Dietary Aid"
+306,2,"Dietary Aid"
+307,2,"Dietary Aid"
+308,2,"Dietary Aid"
+309,2,"Dietary Aid"
+310,4,Other
+311,2,"Dietary Aid"
+312,2,"Dietary Aid"
+313,2,"Dietary Aid"
+314,2,"Dietary Aid"
+315,2,"Dietary Aid"
+316,2,"Dietary Aid"
+317,2,"Dietary Aid"
+318,2,"Dietary Aid"
+319,4,Other
+320,3,Preservative
+321,2,"Dietary Aid"
+322,3,Preservative
+323,2,"Dietary Aid"
+324,2,"Dietary Aid"
+325,2,"Dietary Aid"
+326,2,"Dietary Aid"
+327,2,"Dietary Aid"
+328,3,Preservative
+329,3,Preservative
+330,2,"Dietary Aid"
+331,2,"Dietary Aid"
+332,2,"Dietary Aid"
+333,2,"Dietary Aid"
+334,2,"Dietary Aid"
+335,2,"Dietary Aid"
+336,2,"Dietary Aid"
+337,2,"Dietary Aid"
+338,3,Preservative
+339,2,"Dietary Aid"
+340,3,Preservative
+341,2,"Dietary Aid"
+342,4,Other
+343,2,"Dietary Aid"
+344,2,"Dietary Aid"
+345,2,"Dietary Aid"
+346,2,"Dietary Aid"
+347,2,"Dietary Aid"
+348,2,"Dietary Aid"
+349,2,"Dietary Aid"
+350,4,Other
+351,2,"Dietary Aid"
+352,2,"Dietary Aid"
+353,2,"Dietary Aid"
+354,2,"Dietary Aid"
+355,2,"Dietary Aid"
+356,3,Preservative
+357,2,"Dietary Aid"
+358,2,"Dietary Aid"
+359,2,"Dietary Aid"
+360,2,"Dietary Aid"
+361,2,"Dietary Aid"
+362,2,"Dietary Aid"
+363,2,"Dietary Aid"
+364,2,"Dietary Aid"
+365,2,"Dietary Aid"
+366,2,"Dietary Aid"
+367,2,"Dietary Aid"
+368,4,Other
+369,2,"Dietary Aid"
+370,2,"Dietary Aid"
+371,4,Other
+372,4,Other
+373,2,"Dietary Aid"
+374,2,"Dietary Aid"
+375,2,"Dietary Aid"
+376,3,Lubricant
+377,2,"Dietary Aid"
+378,2,"Dietary Aid"
+379,2,"Dietary Aid"
+380,2,"Dietary Aid"
+381,3,Preservative
+382,2,"Dietary Aid"
+383,2,"Dietary Aid"
+384,2,"Dietary Aid"
+385,3,Preservative
+386,3,Preservative
+387,2,"Dietary Aid"
+388,2,"Dietary Aid"
+389,2,"Dietary Aid"
